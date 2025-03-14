@@ -1,0 +1,39 @@
+# Breakout Game
+
+This is a simple implementation of the classic Breakout game using Go and Raylib.
+
+## Features
+
+- Classic Breakout gameplay
+
+## Installation
+
+1. Clone the repository:
+    ```
+    git clone https://github.com/yourusername/Breakout.git
+    ```
+2. Navigate to the project directory:
+    ```
+    cd Breakout
+    ```
+3. Install the required dependencies:
+    ```
+    go get .
+    ```
+
+## Usage
+
+Run the game using the following command:
+```
+go run .
+```
+
+## Controls
+
+- Use the left and right arrow keys to move the paddle.
+- Break all the bricks to advance to the next level.
+
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
